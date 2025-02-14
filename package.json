@@ -55,7 +55,7 @@
     "fast-csv": "^4.3.6",
     "find-up": "^6.3.0",
     "glightbox": "^3.1.0",
-    "globby": "11.0.4",
+    "globby": "14.1.0",
     "handlebars": "^4.7.7",
     "locate-path": "^7.1.0",
     "ms": "^2.1.3",
