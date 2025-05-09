@@ -42,7 +42,7 @@
     "@algolia/autocomplete-js": "^1.4.0",
     "@algolia/autocomplete-plugin-algolia-insights": "^1.4.0",
     "@algolia/client-search": "^4.10.5",
-    "@babel/runtime": "^7.15.4",
+    "@babel/runtime": "^7.26.10",
     "ajv": "^6.10.2",
     "algoliasearch": "^4.10.5",
     "ansi-regex": "^6.0.1",
@@ -68,7 +68,7 @@
     "semver": "^7.3.5",
     "tap-spot": "^1.1.1",
     "tippy.js": "5.2.0",
-    "typewriter": "^7.4.1",
+    "typewriter": "^9.0.0",
     "webpack-dotenv-plugin": "^2.1.0"
   },
   "packageManager": "yarn@3.1.1"
