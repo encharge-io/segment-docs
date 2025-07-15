@@ -11,7 +11,7 @@ end
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-commonmark"
+  gem "jekyll-commonmark", ">= 1.4.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem "premonition", "~> 2.0.0"
@@ -32,5 +32,5 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 # add "last modified" date to template
 group :jekyll_plugins do
-  gem "jekyll-last-modified-at"
+  gem "jekyll-last-modified-at", ">= 1.3.2"
 end
