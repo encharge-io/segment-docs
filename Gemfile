@@ -11,7 +11,7 @@ end
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-commonmark"
+  gem "jekyll-commonmark", ">= 1.4.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem "premonition", "~> 2.0.0"
