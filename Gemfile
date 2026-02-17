@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", github: "jekyll/jekyll"
 
 group :development do
-  gem "faraday"
+  gem "faraday", ">= 2.14.1"
   gem "rake"
   gem "dotenv"
 end
